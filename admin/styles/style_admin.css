@@ -1,0 +1,50 @@
+body{
+	background: #0bff2f;
+	margin: 0px;
+	border: 0px;
+}
+#header{
+	width: auto;
+	height: 110px;
+	background: #34495e;
+	color: white;
+}
+#sidemenu{
+	float: left;
+	width: 300px;
+	background: #34495e;
+	color: white;
+
+}
+
+#head_img{
+	background:white;
+	border-radius:50px;
+}
+#sidemenu.ul li{
+	display: inline-block;
+	padding-bottom: 10px;
+
+}
+li{
+	padding-bottom: 30px;
+	border-bottom: 3px solid grey;
+}
+li:hover {
+	background: black;
+	color: white;
+	padding-left:10px;
+	-moz-transition: padding-left .3s ease-in;
+	-o-transition: padding-left  .3s ease-in;
+	-webkit-transition: padding-left  .3s ease-in;
+	transition: padding-left  .3s ease-in;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+
+img{
+	width: 70px;
+	height: 70px;
+}
