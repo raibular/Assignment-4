@@ -18,28 +18,28 @@
 
         </div>
 
-        <p><span class="first-letter">Contact Us</span></p>
+        <p><span class="first-letter" style="color: #0f0f0f">Contact Us</span></p>
     </div>
 
     <a href="#">
         <p>  <img src="http://www.effectivehealers.com/wp-content/uploads/2018/06/msg.png" align="left">
-            <i class="fas fa-envelope"></i>  Email
-            <br>ezshop@gmail.com<br>
+            <i class="fas fa-envelope" style="color: #0f0f0f"></i>  Email
+            <br style="color: #0f0f0f">ezshop@gmail.com<br>
             <br>
-            <i class="fas fa-map-marker"></i> Address
-            <br>university of central punjab <br>
+            <i class="fas fa-map-marker"style="color: #0f0f0f"></i> Address
+            <br style="color: #0f0f0f">university of central punjab <br>
             <br>
-            <i class="fas fa-phone"></i> Phone
+            <i class="fas fa-phone"style="color: #0f0f0f"></i> Phone
             <br>0900-78601<br>
             <br>
-            <i class="fab fa-skype"></i> Skype
+            <i class="fab fa-skype"style="color: #0f0f0f"></i> Skype
             <br>Ez_Shop<br>
         <h3>Follow Us:</h3>
         <a href='#'>
-            <i class="fab fa-facebook-f fa-2x"></i>
+            <i class="fab fa-facebook-f fa-2x"style="color: #0f0f0f"></i>
         </a>
         <a href='#'>
-            <i class="fab fa-instagram fa-2x"></i>
+            <i class="fab fa-instagram fa-2x"style="color: #0f0f0f"></i>
         </a>
         <br> <img src="capture1.png"><br>
         <br>

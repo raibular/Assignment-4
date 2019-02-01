@@ -40,7 +40,7 @@ require "server/functions.php";
 
 
 
-<header>
+<header style="color: white">
     <div class="cn-nav">
         <nav class="Emandi-navbar navbar navbar-expand-lg navbar-dark bg-dark">
             <!--<a class="navbar-brand" href="#">Navbar</a>-->
@@ -83,14 +83,14 @@ require "server/functions.php";
 
 
                 <img src="https://www.freeiconspng.com/uploads/shopping-cart-icon-3.png "width="100px" height="100px">
-                <h1> OUR SHOP  </h1>
+                <h1 style="font-size: 30px"> OUR SHOP  </h1>
 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown2" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="top_bar collapse navbar-collapse" id="navbarNavDropdown2">
+                <div class="top_bar collapse navbar-collapse" id="navbarNavDropdown2" >
                     <ul class="navbar-nav mr-auto">
-                        <form  style="margin-right: 100px;maxlenth="64">
+                        <form  style="margin-left: 80px;maxlenth="64">
                         <input type="text" name="search" maxlength="64" placeholder="Search.." onkeyup="Check(this.value)" >
 
                         <button type="submit" class="btn btn-primary btn-sm" style="background-color: #122aff ; position: sticky">Search</button>
@@ -98,27 +98,27 @@ require "server/functions.php";
 
 
                     </ul>
-                    <ul class="navbar-nav">
+                    <ul class="navbar-nav" >
 
 
 
-                        <li class="nav-item active "style="font-size:20px ">
-                            <a class="nav-link" href="home.php"><h5><b>Home</b></h5></a>
+                        <li class="nav-item active "style="font-size:20px;">
+                            <a class="nav-link" href="home.php" style="color: white"><h5><b>Home</b></h5></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contact.php" style="font-size:20px "><h5><b>Contact</b></h5></a>
+                            <a class="nav-link" href="contact.php" style="font-size:20px;color: white "><h5><b>Contact</b></h5></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.php" style="font-size:20px "><h5><b>About us</b></h5></a>
+                            <a class="nav-link" href="about.php" style="font-size:20px;color: white "><h5><b>About us</b></h5></a>
                         </li>
 
 
 
                         <li class="nav-item">
-                            <a class="nav-link" href="loginpage.php" style="font-size:20px "><h5><b>Login</b></h5></a>
+                            <a class="nav-link" href="loginpage.php" style="font-size:20px;color: white "><h5><b>Login</b></h5></a>
                         </li>
                         <li class="nav-item active "style="color: #0f0f0f" >
-                            <a class="nav-link" href="index.php"><i class="fas fa-shopping-cart sc-color fa-2x" style="color:#000;"></i></a>
+                            <a class="nav-link" href="index.php"><i class="fas fa-shopping-cart "></i></a>
                         </li>
 
                     </ul>
